@@ -3,8 +3,8 @@
     "repo": "Ruenbear.github.io",
     "client_id": "Ov23liilZ3IDpVhmSMv4",
     "client_secret": "cb6c4c310556d0395f05f6345dc44edd43ee160e",
-    "title": "Phys.",
-    "instruction": "Hello!!",
+    "title": "Phys. Pigeon",
+    "instruction": "Hello yoo!!",
     "server_link": "",
     "filter": {
         "creator": "all",
@@ -14,7 +14,7 @@
         "首页":"./"
     },
     "friends": {
-        "QMLAB" : "physics.seu.edu.cn/qmlab"
+        "QMLAB" : "https://physics.seu.edu.cn/qmlab"
     },
     "icons": {
         "Github" : {
